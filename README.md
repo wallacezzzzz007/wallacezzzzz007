@@ -6,7 +6,8 @@ Software Engineer
 
 I am currently graduated from University of Waterloo. I have an education background in mathematics, machine learning , computer science and financial engineering. My interests include the full stack, front-end and back-end engineering, machine learning engineering, and data scientist.
 
-*   🌍  I'm based in Canada### Skills 
+*   🌍  I'm based in Canada
+*   ### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
@@ -32,6 +33,7 @@ I am currently graduated from University of Waterloo. I have an education backgr
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://www.argent.xyz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/argent-colored.svg" width="36" height="36" alt="Argent" /></a>
 </p>
+
                     
 ### Socials
                   
